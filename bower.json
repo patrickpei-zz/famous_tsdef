@@ -1,0 +1,26 @@
+{
+  "name": "famous_tsdef",
+  "description": "Typescript definition for Famo.us",
+  "version": "0.1.0",
+  "homepage": "https://github.com/patrickpei/famous_tsdef",
+  "authors": [{
+    "name": "Patrick Eigenmann",
+    "url": "https://github.com/patrickpei"
+  }],
+  "main": "src",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "famo.us"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "src/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}
