@@ -7,7 +7,7 @@
     "name": "Patrick Eigenmann",
     "url": "https://github.com/patrickpei"
   }],
-  "main": "src",
+  "main": "dist/famous.d.ts",
   "moduleType": [
     "amd"
   ],
