@@ -15,3 +15,5 @@ gulp.task('compile', function(){
 	    .pipe(typescript({ sourcemap: true, module: 'amd', noImplicitAny: true }))
 	    .pipe(gulp.dest('dist/'))
 });
+
+gulp.task('default', ['compile']);
