@@ -1,0 +1,27 @@
+{
+  "name": "famous_tsdef",
+  "description": "Typescript definition for Famo.us",
+  "version": "0.1.0",
+  "homepage": "https://github.com/n/famousapp",
+  "author": {
+    "name": "Patrick Eigenmann",
+    "url": "http://github.com/n/"
+  },
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/n/famousapp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/n/famousapp/issues"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "devDependencies": {
+		"gulp": "~3.8.5",
+    "gulp-tsc": "~0.9.1",
+    "gulp-concat": "~2.2.0",
+    "gulp-replace": "~0.3.0"
+  }
+}
