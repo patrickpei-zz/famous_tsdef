@@ -1,5 +1,5 @@
-famous_tsdef
-============
+Famous Typescript Definition
+============================
 
 Typescript definition for Famo.us
 
@@ -21,4 +21,4 @@ npm install
 ```gulp famous.d.ts``` bundles the definition files to on file dist/famous.d.ts
 
 
-## 
+ 
